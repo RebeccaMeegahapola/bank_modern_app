@@ -13,7 +13,7 @@ interface Feature {
   content: string;
 }
 
-interface Feedback {
+export interface Feedback {
   id: string;
   content: string;
   name: string;

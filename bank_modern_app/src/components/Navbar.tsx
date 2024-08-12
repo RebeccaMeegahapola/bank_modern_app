@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import { close, logo, menu } from '../assets/index.ts';
+import { close, logo, menu } from '../assets/index';
 import { navLinks } from '../constants';
 
 const Navbar: React.FC = () => {

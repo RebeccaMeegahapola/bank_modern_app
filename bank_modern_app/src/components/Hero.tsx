@@ -1,5 +1,5 @@
 import styles from "../style";
-import { discount, robot } from "../assets/index.ts";
+import { discount, robot } from "../assets/index";
 import GetStarted from "./GetStarted";
 
 const Hero: React.FC = () => (
